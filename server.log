@@ -1,0 +1,76 @@
+2013-07-09 22:33:55 [INFO] Starting minecraft server version 1.6.2
+2013-07-09 22:33:55 [INFO] Loading properties
+2013-07-09 22:33:55 [WARNING] server.properties does not exist
+2013-07-09 22:33:55 [INFO] Generating new properties file
+2013-07-09 22:33:55 [INFO] Default game type: SURVIVAL
+2013-07-09 22:33:55 [INFO] Generating keypair
+2013-07-09 22:33:56 [INFO] Starting Minecraft server on *:25565
+2013-07-09 22:33:56 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-07-09 22:33:56 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-07-09 22:33:56 [INFO] Preparing level "world"
+2013-07-09 22:33:56 [WARNING] Unable to find spawn biome
+2013-07-09 22:33:59 [INFO] Preparing start region for level 0
+2013-07-09 22:34:00 [INFO] Preparing spawn area: 9%
+2013-07-09 22:34:01 [INFO] Preparing spawn area: 18%
+2013-07-09 22:34:02 [INFO] Preparing spawn area: 23%
+2013-07-09 22:34:03 [INFO] Preparing spawn area: 30%
+2013-07-09 22:34:04 [INFO] Preparing spawn area: 37%
+2013-07-09 22:34:05 [INFO] Preparing spawn area: 43%
+2013-07-09 22:34:06 [INFO] Preparing spawn area: 51%
+2013-07-09 22:34:07 [INFO] Preparing spawn area: 57%
+2013-07-09 22:34:08 [INFO] Preparing spawn area: 63%
+2013-07-09 22:34:09 [INFO] Preparing spawn area: 68%
+2013-07-09 22:34:10 [INFO] Preparing spawn area: 74%
+2013-07-09 22:34:11 [INFO] Preparing spawn area: 79%
+2013-07-09 22:34:12 [INFO] Preparing spawn area: 83%
+2013-07-09 22:34:13 [INFO] Preparing spawn area: 86%
+2013-07-09 22:34:14 [INFO] Preparing spawn area: 90%
+2013-07-09 22:34:15 [INFO] Preparing spawn area: 94%
+2013-07-09 22:34:16 [INFO] Preparing spawn area: 97%
+2013-07-09 22:34:18 [INFO] Done (20.880s)! For help, type "help" or "?"
+2013-07-09 22:34:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-09 22:34:43 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-07-09 22:34:43 [INFO] /ban <name> [reason ...]
+2013-07-09 22:34:43 [INFO] /ban-ip <address|name> [reason ...]
+2013-07-09 22:34:43 [INFO] /banlist [ips|players]
+2013-07-09 22:34:43 [INFO] /clear <player> [item] [data]
+2013-07-09 22:34:43 [INFO] /debug <start|stop>
+2013-07-09 22:34:43 [INFO] /defaultgamemode <mode>
+2013-07-09 22:34:43 [INFO] /deop <player>
+2013-07-09 22:34:48 [INFO] Stopping server
+2013-07-09 22:34:48 [INFO] Saving players
+2013-07-09 23:08:53 [INFO] Starting minecraft server version 1.6.2
+2013-07-09 23:08:53 [INFO] Loading properties
+2013-07-09 23:08:53 [INFO] Default game type: SURVIVAL
+2013-07-09 23:08:53 [INFO] Generating keypair
+2013-07-09 23:08:54 [INFO] Starting Minecraft server on *:25565
+2013-07-09 23:08:54 [INFO] Preparing level "tutorial"
+2013-07-09 23:08:54 [INFO] Preparing start region for level 0
+2013-07-09 23:08:55 [INFO] Preparing spawn area: 39%
+2013-07-09 23:08:56 [INFO] Done (2.142s)! For help, type "help" or "?"
+2013-07-09 23:09:19 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-09 23:09:35 [INFO] mvanholstyn[/76.112.46.53:47524] logged in with entity id 159 at (-60.5637819349728, 62.0, 404.3837766934469)
+2013-07-09 23:09:35 [INFO] mvanholstyn joined the game
+2013-07-09 23:09:53 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-09 23:10:07 [INFO] Bumtop[/99.48.205.157:39695] logged in with entity id 539 at (58.5, 64.0, 230.5)
+2013-07-09 23:10:07 [INFO] Bumtop joined the game
+2013-07-09 23:10:41 [INFO] [mvanholstyn] bumtop where are you?
+2013-07-09 23:11:04 [INFO] <Bumtop> i'm by a lake with an island in the middle
+2013-07-09 23:11:28 [INFO] <Bumtop> ahhhh
+2013-07-09 23:12:08 [INFO] [mvanholstyn] bumtop when you get here you will see a huge tall tower
+2013-07-09 23:13:26 [INFO] [mvanholstyn] bumptop what are your coords?
+2013-07-09 23:14:39 [INFO] <Bumtop> did you just shoot me????
+2013-07-09 23:14:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-09 23:14:51 [INFO] [mvanholstyn] bumptop no, did you die?
+2013-07-09 23:14:57 [INFO] [mvanholstyn] bumptop i saw you
+2013-07-09 23:15:02 [INFO] <Bumtop> i've got 1 heart left
+2013-07-09 23:15:24 [INFO] [mvanholstyn] bumptop see the twoer?
+2013-07-09 23:15:35 [INFO] <Bumtop> i'm in the little cave at the base
+2013-07-09 23:16:07 [INFO] <Bumtop> oh hi!
+2013-07-09 23:16:49 [INFO] <Bumtop> you've been busy!
+2013-07-09 23:43:10 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-09 23:43:10 [INFO] Bumtop left the game
+2013-07-09 23:43:49 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-09 23:43:49 [INFO] mvanholstyn left the game
+2013-07-09 23:44:29 [INFO] Stopping server
+2013-07-09 23:44:29 [INFO] Closing listening thread
