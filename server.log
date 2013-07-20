@@ -74,3 +74,1000 @@
 2013-07-09 23:43:49 [INFO] mvanholstyn left the game
 2013-07-09 23:44:29 [INFO] Stopping server
 2013-07-09 23:44:29 [INFO] Closing listening thread
+2013-07-10 00:12:14 [INFO] Starting minecraft server version 1.6.2
+2013-07-10 00:12:15 [INFO] Loading properties
+2013-07-10 00:12:15 [INFO] Default game type: SURVIVAL
+2013-07-10 00:12:15 [INFO] Generating keypair
+2013-07-10 00:12:15 [INFO] Starting Minecraft server on *:25565
+2013-07-10 00:12:15 [INFO] Preparing level "tutorial"
+2013-07-10 00:12:16 [INFO] Preparing start region for level 0
+2013-07-10 00:12:17 [INFO] Preparing spawn area: 23%
+2013-07-10 00:12:18 [INFO] Preparing spawn area: 54%
+2013-07-10 00:12:19 [INFO] Preparing spawn area: 98%
+2013-07-10 00:12:19 [INFO] Done (3.479s)! For help, type "help" or "?"
+2013-07-10 00:12:37 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-10 00:12:46 [INFO] mvanholstyn[/76.112.46.53:38479] logged in with entity id 209 at (-62.16609790832555, 62.0, 403.22962329723214)
+2013-07-10 00:12:46 [INFO] mvanholstyn joined the game
+2013-07-10 00:13:03 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-10 00:13:03 [INFO] mvanholstyn left the game
+2013-07-10 00:13:11 [INFO] Stopping server
+2013-07-10 00:18:38 [INFO] Starting minecraft server version 1.6.2
+2013-07-10 00:18:38 [INFO] Loading properties
+2013-07-10 00:18:39 [INFO] Default game type: SURVIVAL
+2013-07-10 00:18:39 [INFO] Generating keypair
+2013-07-10 00:18:45 [INFO] Starting Minecraft server on *:25565
+2013-07-10 00:18:47 [INFO] Preparing level "tutorial"
+2013-07-10 00:18:51 [INFO] Preparing start region for level 0
+2013-07-10 00:18:52 [INFO] Preparing spawn area: 0%
+2013-07-10 00:18:54 [INFO] Preparing spawn area: 1%
+2013-07-10 00:18:55 [INFO] Preparing spawn area: 4%
+2013-07-10 00:18:56 [INFO] Preparing spawn area: 7%
+2013-07-10 00:18:57 [INFO] Preparing spawn area: 10%
+2013-07-10 00:18:58 [INFO] Preparing spawn area: 14%
+2013-07-10 00:18:59 [INFO] Preparing spawn area: 18%
+2013-07-10 00:19:00 [INFO] Preparing spawn area: 21%
+2013-07-10 00:19:01 [INFO] Preparing spawn area: 25%
+2013-07-10 00:19:02 [INFO] Preparing spawn area: 28%
+2013-07-10 00:19:03 [INFO] Preparing spawn area: 30%
+2013-07-10 00:19:04 [INFO] Preparing spawn area: 32%
+2013-07-10 00:19:05 [INFO] Preparing spawn area: 35%
+2013-07-10 00:19:07 [INFO] Preparing spawn area: 37%
+2013-07-10 00:19:08 [INFO] Preparing spawn area: 40%
+2013-07-10 00:19:09 [INFO] Preparing spawn area: 43%
+2013-07-10 00:19:10 [INFO] Preparing spawn area: 46%
+2013-07-10 00:19:11 [INFO] Preparing spawn area: 48%
+2013-07-10 00:19:12 [INFO] Preparing spawn area: 50%
+2013-07-10 00:19:13 [INFO] Preparing spawn area: 55%
+2013-07-10 00:19:14 [INFO] Preparing spawn area: 57%
+2013-07-10 00:19:15 [INFO] Preparing spawn area: 61%
+2013-07-10 00:19:16 [INFO] Preparing spawn area: 64%
+2013-07-10 00:19:17 [INFO] Preparing spawn area: 68%
+2013-07-10 00:19:18 [INFO] Preparing spawn area: 71%
+2013-07-10 00:19:19 [INFO] Preparing spawn area: 72%
+2013-07-10 00:19:20 [INFO] Preparing spawn area: 74%
+2013-07-10 00:19:21 [INFO] Preparing spawn area: 77%
+2013-07-10 00:19:22 [INFO] Preparing spawn area: 80%
+2013-07-10 00:19:23 [INFO] Preparing spawn area: 85%
+2013-07-10 00:19:24 [INFO] Preparing spawn area: 89%
+2013-07-10 00:19:25 [INFO] Preparing spawn area: 92%
+2013-07-10 00:19:26 [INFO] Preparing spawn area: 97%
+2013-07-10 00:19:27 [INFO] Done (39.847s)! For help, type "help" or "?"
+2013-07-10 00:19:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-10 00:19:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-10 00:20:00 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-10 00:20:04 [INFO] mvanholstyn[/76.112.46.53:39220] logged in with entity id 316 at (-62.16609790832555, 62.0, 403.22962329723214)
+2013-07-10 00:20:06 [INFO] mvanholstyn joined the game
+2013-07-10 00:20:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-10 00:20:20 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-10 00:20:20 [INFO] mvanholstyn lost connection: disconnect.endOfStream
+2013-07-10 00:20:20 [INFO] mvanholstyn left the game
+2013-07-11 21:13:14 [INFO] Starting minecraft server version 1.6.2
+2013-07-11 21:13:14 [INFO] Loading properties
+2013-07-11 21:13:14 [INFO] Default game type: SURVIVAL
+2013-07-11 21:13:14 [INFO] Generating keypair
+2013-07-11 21:13:15 [INFO] Starting Minecraft server on *:25565
+2013-07-11 21:13:15 [INFO] Preparing level "tutorial"
+2013-07-11 21:13:16 [INFO] Preparing start region for level 0
+2013-07-11 21:13:17 [INFO] Preparing spawn area: 10%
+2013-07-11 21:13:18 [INFO] Preparing spawn area: 37%
+2013-07-11 21:13:19 [INFO] Preparing spawn area: 77%
+2013-07-11 21:13:19 [INFO] Done (4.258s)! For help, type "help" or "?"
+2013-07-11 21:13:24 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-11 21:13:31 [INFO] mvanholstyn[/99.48.200.196:39256] logged in with entity id 272 at (-62.16609790832555, 62.0, 403.22962329723214)
+2013-07-11 21:13:31 [INFO] mvanholstyn joined the game
+2013-07-11 21:14:00 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-11 21:14:04 [INFO] Bumtop[/99.48.200.196:42332] logged in with entity id 485 at (-59.99675279172888, 62.0, 404.77865910824715)
+2013-07-11 21:14:04 [INFO] Bumtop joined the game
+2013-07-11 21:25:13 [INFO] Bumtop tried to swim in lava
+2013-07-11 21:57:13 [INFO] Disconnecting dbish1984 [/99.48.200.196:47489]: You are not white-listed on this server!
+2013-07-11 21:57:13 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-11 21:58:28 [INFO] Disconnecting dbish1984 [/99.48.200.196:46828]: You are not white-listed on this server!
+2013-07-11 21:58:29 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-11 21:58:37 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-11 21:58:37 [INFO] mvanholstyn left the game
+2013-07-11 21:58:38 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-11 21:58:38 [INFO] Bumtop left the game
+2013-07-11 21:58:49 [INFO] Starting minecraft server version 1.6.2
+2013-07-11 21:58:49 [INFO] Loading properties
+2013-07-11 21:58:49 [INFO] Default game type: SURVIVAL
+2013-07-11 21:58:49 [INFO] Generating keypair
+2013-07-11 21:58:49 [INFO] Starting Minecraft server on *:25565
+2013-07-11 21:58:49 [INFO] Preparing level "tutorial"
+2013-07-11 21:58:50 [INFO] Preparing start region for level 0
+2013-07-11 21:58:51 [INFO] Preparing spawn area: 44%
+2013-07-11 21:58:52 [INFO] Preparing spawn area: 81%
+2013-07-11 21:58:52 [INFO] Done (2.582s)! For help, type "help" or "?"
+2013-07-11 21:58:53 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-11 21:58:55 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-11 21:58:56 [INFO] mvanholstyn[/99.48.200.196:35154] logged in with entity id 178 at (-61.824918687473684, 62.0, 403.7169665074487)
+2013-07-11 21:58:56 [INFO] mvanholstyn joined the game
+2013-07-11 21:58:58 [INFO] Bumtop[/99.48.200.196:37154] logged in with entity id 298 at (-62.02772597591627, 62.0, 407.0401416537153)
+2013-07-11 21:58:58 [INFO] Bumtop joined the game
+2013-07-11 21:59:12 [INFO] dbish1984[/99.48.200.196:48854] logged in with entity id 376 at (64.5, 64.0, 223.5)
+2013-07-11 21:59:12 [INFO] dbish1984 joined the game
+2013-07-11 23:11:40 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-11 23:11:40 [INFO] Bumtop left the game
+2013-07-11 23:34:20 [INFO] dbish1984 was blown up by Creeper
+2013-07-11 23:34:57 [WARNING] mvanholstyn moved wrongly!
+2013-07-11 23:35:32 [INFO] dbish1984 was slain by mvanholstyn
+2013-07-11 23:43:41 [INFO] <dbish1984> poop
+2013-07-11 23:55:49 [INFO] <dbish1984> poop
+2013-07-12 00:28:26 [INFO] <dbish1984> penis
+2013-07-12 01:01:47 [INFO] dbish1984 was slain by mvanholstyn
+2013-07-12 01:08:51 [INFO] dbish1984 was shot by Skeleton
+2013-07-12 01:09:33 [INFO] dbish1984 lost connection: disconnect.quitting
+2013-07-12 01:09:33 [INFO] dbish1984 left the game
+2013-07-12 01:10:45 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-12 01:10:45 [INFO] mvanholstyn left the game
+2013-07-12 01:11:07 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-12 01:11:09 [INFO] mvanholstyn[/99.48.200.196:36547] logged in with entity id 667637 at (-55.20005006284787, 62.0, 399.78056766689457)
+2013-07-12 01:11:09 [INFO] mvanholstyn joined the game
+2013-07-12 01:11:12 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-12 01:11:12 [INFO] mvanholstyn left the game
+2013-07-12 01:11:27 [INFO] Stopping server
+2013-07-12 01:11:27 [INFO] Closing listening thread
+2013-07-12 01:11:55 [INFO] Starting minecraft server version 1.6.2
+2013-07-12 01:11:55 [INFO] Loading properties
+2013-07-12 01:11:55 [INFO] Default game type: SURVIVAL
+2013-07-12 01:11:55 [INFO] Generating keypair
+2013-07-12 01:11:57 [INFO] Starting Minecraft server on *:25565
+2013-07-12 01:11:57 [INFO] Preparing level "tutorial"
+2013-07-12 01:11:57 [INFO] Preparing start region for level 0
+2013-07-12 01:11:58 [INFO] Preparing spawn area: 8%
+2013-07-12 01:11:59 [INFO] Preparing spawn area: 47%
+2013-07-12 01:12:00 [INFO] Preparing spawn area: 96%
+2013-07-12 01:12:00 [INFO] Done (3.449s)! For help, type "help" or "?"
+2013-07-12 01:12:09 [SEVERE] Reached end of stream for /99.48.200.196
+2013-07-12 01:12:12 [INFO] mvanholstyn[/99.48.200.196:34843] logged in with entity id 191 at (-55.20005006284787, 62.0, 399.78056766689457)
+2013-07-12 01:12:12 [INFO] mvanholstyn joined the game
+2013-07-12 01:12:22 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-12 01:12:22 [INFO] mvanholstyn left the game
+2013-07-12 16:18:50 [SEVERE] Reached end of stream for /199.116.52.94
+2013-07-12 16:18:52 [INFO] mvanholstyn[/199.116.52.94:34240] logged in with entity id 366 at (-54.76026854600151, 62.0, 400.0986728301704)
+2013-07-12 16:18:52 [INFO] mvanholstyn joined the game
+2013-07-12 16:19:28 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-12 16:19:28 [INFO] mvanholstyn left the game
+2013-07-12 16:54:29 [INFO] Starting minecraft server version 1.6.2
+2013-07-12 16:54:29 [INFO] Loading properties
+2013-07-12 16:54:29 [INFO] Default game type: SURVIVAL
+2013-07-12 16:54:29 [INFO] Generating keypair
+2013-07-12 16:54:30 [INFO] Starting Minecraft server on *:25565
+2013-07-12 16:54:30 [INFO] Preparing level "tutorial"
+2013-07-12 16:54:31 [INFO] Preparing start region for level 0
+2013-07-12 16:54:32 [INFO] Preparing spawn area: 5%
+2013-07-12 16:54:33 [INFO] Preparing spawn area: 19%
+2013-07-12 16:54:34 [INFO] Preparing spawn area: 36%
+2013-07-12 16:54:35 [INFO] Preparing spawn area: 37%
+2013-07-12 16:54:36 [INFO] Preparing spawn area: 41%
+2013-07-12 16:54:37 [INFO] Preparing spawn area: 74%
+2013-07-12 16:54:38 [INFO] Preparing spawn area: 98%
+2013-07-12 16:54:38 [INFO] Done (8.167s)! For help, type "help" or "?"
+2013-07-13 11:17:42 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-13 11:17:46 [INFO] Bumtop[/99.48.205.157:38208] logged in with entity id 191 at (-58.92841639948464, 66.0, 404.52897410913357)
+2013-07-13 11:17:46 [INFO] Bumtop joined the game
+2013-07-13 11:17:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 12:55:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 13:35:00 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-13 13:35:00 [INFO] Bumtop left the game
+2013-07-13 13:48:59 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-13 13:49:02 [INFO] Bumtop[/99.48.205.157:36911] logged in with entity id 128637 at (-56.28387152311106, 62.0, 400.8815702655284)
+2013-07-13 13:49:02 [INFO] Bumtop joined the game
+2013-07-13 16:27:50 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-13 16:27:50 [INFO] Bumtop left the game
+2013-07-13 16:45:35 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-13 16:45:38 [INFO] Bumtop[/99.48.205.157:39445] logged in with entity id 267213 at (-58.93982932635091, 62.0, 404.31234828972134)
+2013-07-13 16:45:38 [INFO] Bumtop joined the game
+2013-07-13 16:49:44 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-13 16:49:45 [INFO] mvanholstyn[/76.112.46.53:36216] logged in with entity id 271094 at (-55.82540914060655, 62.0, 400.20211387829943)
+2013-07-13 16:49:45 [INFO] mvanholstyn joined the game
+2013-07-13 16:49:54 [INFO] <mvanholstyn> hi!
+2013-07-13 16:49:59 [INFO] <Bumtop> hi there!
+2013-07-13 16:50:09 [INFO] <mvanholstyn> where you at?
+2013-07-13 16:50:17 [INFO] <Bumtop> just gathering some wheat
+2013-07-13 16:50:26 [INFO] <Bumtop> replanting seeds now
+2013-07-13 16:52:49 [INFO] <Bumtop> gunna make some bread
+2013-07-13 16:53:03 [INFO] <mvanholstyn> i am going to go build some more floors up
+2013-07-13 16:53:13 [INFO] <mvanholstyn> we are trying to reach the top of the world
+2013-07-13 17:04:41 [INFO] <Bumtop> holy crap, we're high up
+2013-07-13 17:04:59 [INFO] <mvanholstyn> yup! i need to run for a few. ill brb
+2013-07-13 17:05:03 [INFO] <mvanholstyn> here are some stairs
+2013-07-13 17:05:16 [INFO] <Bumtop> got em!
+2013-07-13 17:05:25 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-13 17:05:25 [INFO] mvanholstyn left the game
+2013-07-13 17:26:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 17:26:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 17:27:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 18:00:58 [INFO] Bumtop was doomed to fall by Spider
+2013-07-13 18:20:55 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-13 18:20:55 [INFO] Bumtop left the game
+2013-07-13 18:38:54 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-13 18:38:56 [INFO] Bumtop[/99.48.205.157:34693] logged in with entity id 3406716 at (-56.023462991652416, 66.0, 406.8961026567593)
+2013-07-13 18:38:56 [INFO] Bumtop joined the game
+2013-07-13 19:42:08 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-13 19:42:08 [INFO] Bumtop left the game
+2013-07-13 20:01:15 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-13 20:01:19 [INFO] Bumtop[/99.48.205.157:49150] logged in with entity id 3479961 at (-55.5, 66.0, 408.5)
+2013-07-13 20:01:19 [INFO] Bumtop joined the game
+2013-07-13 20:31:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 20:31:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 20:31:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 20:31:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-13 20:48:59 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-13 20:48:59 [INFO] Bumtop left the game
+2013-07-13 20:58:13 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-13 20:58:18 [INFO] mvanholstyn[/76.112.46.53:33859] logged in with entity id 3515685 at (-53.82090624483497, 194.0, 408.58293814943687)
+2013-07-13 20:58:18 [INFO] mvanholstyn joined the game
+2013-07-13 21:08:32 [WARNING] mvanholstyn was kicked for floating too long!
+2013-07-13 21:08:32 [INFO] mvanholstyn left the game
+2013-07-13 21:08:39 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-13 21:08:42 [INFO] mvanholstyn[/76.112.46.53:38295] logged in with entity id 4008846 at (-51.71060235249395, 242.0, 410.5082580859535)
+2013-07-13 21:08:42 [INFO] mvanholstyn joined the game
+2013-07-13 21:11:10 [WARNING] mvanholstyn was kicked for floating too long!
+2013-07-13 21:11:10 [INFO] mvanholstyn left the game
+2013-07-13 21:11:16 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-13 21:11:19 [INFO] mvanholstyn[/76.112.46.53:35681] logged in with entity id 4184405 at (-53.56287182793915, 244.0, 403.68053464323435)
+2013-07-13 21:11:19 [INFO] mvanholstyn joined the game
+2013-07-13 21:21:25 [INFO] mvanholstyn lost connection: disconnect.genericReason
+2013-07-13 21:21:25 [INFO] mvanholstyn left the game
+2013-07-13 21:21:35 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-13 21:21:37 [INFO] mvanholstyn[/76.112.46.53:44695] logged in with entity id 4885346 at (-50.287728377301015, 226.0, 407.7490344983514)
+2013-07-13 21:21:37 [INFO] mvanholstyn joined the game
+2013-07-13 21:22:20 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-13 21:22:22 [INFO] Bumtop[/99.48.205.157:41251] logged in with entity id 4938193 at (-55.5, 66.0, 408.5)
+2013-07-13 21:22:22 [INFO] Bumtop joined the game
+2013-07-13 21:23:31 [INFO] <Bumtop> oh hi!
+2013-07-13 21:24:19 [INFO] <Bumtop> How many more floors did you make?
+2013-07-13 21:25:39 [INFO] <mvanholstyn> 6ish
+2013-07-13 21:26:40 [INFO] <mvanholstyn> is there a trap door anywher?
+2013-07-13 21:26:56 [INFO] <mvanholstyn> found it
+2013-07-13 21:38:21 [INFO] <Bumtop> where are you?
+2013-07-13 21:39:47 [INFO] <mvanholstyn> by the chests
+2013-07-13 21:40:56 [INFO] <mvanholstyn> gotta got put max to bed
+2013-07-13 21:41:03 [INFO] <mvanholstyn> ill be back when that is successful
+2013-07-13 21:41:05 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-13 21:41:05 [INFO] mvanholstyn left the game
+2013-07-13 22:46:48 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-13 22:46:48 [INFO] Bumtop left the game
+2013-07-13 23:45:24 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 00:44:07 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 11:21:43 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 11:21:49 [INFO] Bumtop[/99.48.205.157:49007] logged in with entity id 5059913 at (-53.04093326986379, 66.0, 406.27275497123554)
+2013-07-14 11:21:49 [INFO] Bumtop joined the game
+2013-07-14 12:39:01 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-14 12:39:01 [INFO] Bumtop left the game
+2013-07-14 12:42:59 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 12:43:01 [INFO] mvanholstyn[/76.112.46.53:40742] logged in with entity id 5135089 at (-55.44511996781017, 62.0, 400.4100390788245)
+2013-07-14 12:43:01 [INFO] mvanholstyn joined the game
+2013-07-14 13:02:27 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 13:02:27 [INFO] mvanholstyn left the game
+2013-07-14 13:11:49 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 13:11:51 [INFO] mvanholstyn[/76.112.46.53:45879] logged in with entity id 5149744 at (-29.699999988079064, 18.0, 460.69999998807907)
+2013-07-14 13:11:51 [INFO] mvanholstyn joined the game
+2013-07-14 13:34:51 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 13:34:51 [INFO] mvanholstyn left the game
+2013-07-14 13:41:54 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 13:41:57 [INFO] Bumtop[/99.48.205.157:42673] logged in with entity id 5161070 at (-53.07334907872767, 66.0, 406.7301597556617)
+2013-07-14 13:41:57 [INFO] Bumtop joined the game
+2013-07-14 13:47:58 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 13:48:00 [INFO] mvanholstyn[/76.112.46.53:44501] logged in with entity id 5168221 at (-95.69999998807907, 18.0, 531.0139158928797)
+2013-07-14 13:48:00 [INFO] mvanholstyn joined the game
+2013-07-14 13:50:44 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 13:50:44 [INFO] mvanholstyn left the game
+2013-07-14 15:23:57 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 15:23:59 [INFO] mvanholstyn[/76.112.46.53:46011] logged in with entity id 5251491 at (-101.55685365819133, 10.0, 541.4500739958296)
+2013-07-14 15:23:59 [INFO] mvanholstyn joined the game
+2013-07-14 15:30:32 [INFO] <Bumtop> where you at?
+2013-07-14 15:31:00 [INFO] <mvanholstyn> pretty sure i am lost
+2013-07-14 15:31:08 [INFO] <Bumtop> haha
+2013-07-14 15:34:56 [INFO] <mvanholstyn> success!
+2013-07-14 15:35:38 [INFO] <Bumtop> i f-ing hate those exploding monsters
+2013-07-14 15:35:45 [INFO] <mvanholstyn> hi!
+2013-07-14 15:35:50 [INFO] <Bumtop> hey!!!
+2013-07-14 15:35:50 [INFO] <mvanholstyn> i found some awesome caves
+2013-07-14 15:35:56 [INFO] <Bumtop> ooooo
+2013-07-14 15:36:06 [INFO] <mvanholstyn> 20 gol
+2013-07-14 15:36:08 [INFO] <mvanholstyn> d
+2013-07-14 15:36:14 [INFO] <Bumtop> nice!
+2013-07-14 15:36:27 [INFO] <Bumtop> I've been finding a lot of redstone done at the bottom
+2013-07-14 15:36:31 [INFO] <Bumtop> and some diamonds
+2013-07-14 15:37:51 [INFO] <mvanholstyn> where do we put slime?
+2013-07-14 15:38:09 [INFO] <mvanholstyn> you are just smelting all gold and iron now right?
+2013-07-14 15:38:21 [INFO] <Bumtop> yup, can't do anything with the ore
+2013-07-14 15:38:37 [INFO] <Bumtop> slime is right across from the food, by the door
+2013-07-14 15:39:21 [INFO] <Bumtop> just made a few pick axes
+2013-07-14 15:40:07 [INFO] <mvanholstyn> i made a bunch of wood axes earlier on accident
+2013-07-14 15:40:27 [INFO] <Bumtop> yeah, i made too many stone swords yesterday
+2013-07-14 15:40:32 [INFO] <Bumtop> oops
+2013-07-14 15:41:13 [INFO] <Bumtop> we can turn this chest with the wool and leather into another cobblestone chest if we need to
+2013-07-14 15:41:26 [INFO] <mvanholstyn> come with me?
+2013-07-14 15:41:34 [INFO] <Bumtop> sure
+2013-07-14 15:44:55 [INFO] <mvanholstyn> here
+2013-07-14 15:45:03 [INFO] <Bumtop> whoa
+2013-07-14 15:45:07 [INFO] <mvanholstyn> lots of obsidian, need diamond pickaxe though
+2013-07-14 15:45:22 [INFO] <mvanholstyn> lots of stuff over here that is dark and unexplored
+2013-07-14 15:46:10 [INFO] <mvanholstyn> holy crap
+2013-07-14 15:46:29 [INFO] <mvanholstyn> obs land
+2013-07-14 15:47:04 [INFO] <mvanholstyn> gotta run to lowes, ill get this obs wheni get back
+2013-07-14 15:47:09 [INFO] <mvanholstyn> i have a diamond pixaxe
+2013-07-14 15:47:19 [INFO] <Bumtop> k
+2013-07-14 15:48:05 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 15:48:06 [INFO] mvanholstyn left the game
+2013-07-14 16:03:39 [INFO] Bumtop tried to swim in lava to escape Enderman
+2013-07-14 16:35:29 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-14 16:35:29 [INFO] Bumtop left the game
+2013-07-14 17:06:17 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 17:06:23 [INFO] Bumtop[/99.48.205.157:37539] logged in with entity id 5312697 at (-53.50500889303571, 66.0, 406.92398521879556)
+2013-07-14 17:06:23 [INFO] Bumtop joined the game
+2013-07-14 17:19:55 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 17:19:59 [INFO] mvanholstyn[/76.112.46.53:35587] logged in with entity id 5323528 at (-115.3000000119209, 16.0, 518.3000000119208)
+2013-07-14 17:19:59 [INFO] mvanholstyn joined the game
+2013-07-14 17:20:03 [INFO] <mvanholstyn> still lost?
+2013-07-14 17:20:14 [INFO] <Bumtop> no, i died, remember?
+2013-07-14 17:20:30 [INFO] <Bumtop> i couldn't figure out how to get back, so i gave up on it
+2013-07-14 17:21:13 [INFO] <mvanholstyn> i am going to clear out all this obsidian
+2013-07-14 17:21:23 [INFO] <Bumtop> what me to come with?
+2013-07-14 17:21:28 [INFO] <mvanholstyn> yeah
+2013-07-14 17:21:47 [INFO] <Bumtop> i'll be back at the house in like, 30 seconds
+2013-07-14 17:22:51 [INFO] <Bumtop> where are you?
+2013-07-14 17:23:04 [INFO] <mvanholstyn> down by the obs, making my way bak
+2013-07-14 17:23:10 [INFO] <mvanholstyn> do you have a diamond pickaxe?
+2013-07-14 17:23:20 [INFO] <Bumtop> no, but i can make one quick a sec
+2013-07-14 17:27:49 [INFO] <mvanholstyn> ready?
+2013-07-14 17:27:51 [INFO] <Bumtop> sure
+2013-07-14 17:29:43 [INFO] <mvanholstyn> behind you
+2013-07-14 17:29:45 [INFO] <mvanholstyn> coal
+2013-07-14 17:42:00 [INFO] <Bumtop> i think this is where i die
+2013-07-14 17:43:09 [INFO] <Bumtop> there's lava right under all of this
+2013-07-14 17:43:22 [INFO] <mvanholstyn> looks like there might be
+2013-07-14 17:44:06 [INFO] <mvanholstyn> stand right up next to it as you break it and you shoudl still get it
+2013-07-14 17:47:33 [INFO] <mvanholstyn> this is a lot of obs
+2013-07-14 17:47:56 [INFO] <Bumtop> its a jackpot
+2013-07-14 17:49:24 [INFO] <Bumtop> i had a bucket of water that i tried to throw on you
+2013-07-14 17:49:25 [INFO] <mvanholstyn> dont walk into lava
+2013-07-14 17:49:26 [INFO] <Bumtop> hehe
+2013-07-14 17:49:29 [INFO] <mvanholstyn> ty
+2013-07-14 17:50:45 [INFO] <Bumtop> f*ckin a
+2013-07-14 17:52:18 [INFO] <mvanholstyn> brb
+2013-07-14 17:52:19 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 17:52:19 [INFO] mvanholstyn left the game
+2013-07-14 18:00:03 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 18:00:05 [INFO] mvanholstyn[/76.112.46.53:44211] logged in with entity id 5352054 at (-124.61739672486716, 12.0, 508.5024741763058)
+2013-07-14 18:00:05 [INFO] mvanholstyn joined the game
+2013-07-14 18:02:08 [INFO] <mvanholstyn> here
+2013-07-14 18:04:03 [INFO] <Bumtop> where you putting the obs
+2013-07-14 18:04:12 [INFO] <mvanholstyn> there
+2013-07-14 18:04:28 [INFO] <Bumtop> yay!!! i didn't die!
+2013-07-14 18:04:57 [INFO] <mvanholstyn> ok, time for pizza
+2013-07-14 18:05:01 [INFO] <mvanholstyn> ill be on later
+2013-07-14 18:05:05 [INFO] <Bumtop> okay
+2013-07-14 18:05:06 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 18:05:06 [INFO] mvanholstyn left the game
+2013-07-14 18:09:40 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-14 18:09:40 [INFO] Bumtop left the game
+2013-07-14 18:47:44 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 18:47:46 [INFO] mvanholstyn[/76.112.46.53:39573] logged in with entity id 5362096 at (-56.63846897080177, 66.5625, 409.17643353343396)
+2013-07-14 18:47:46 [INFO] mvanholstyn joined the game
+2013-07-14 19:00:18 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 19:00:18 [INFO] mvanholstyn left the game
+2013-07-14 19:02:40 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 19:02:42 [INFO] mvanholstyn[/76.112.46.53:40860] logged in with entity id 5370483 at (-13.146399897560299, 47.0, 497.1382342521778)
+2013-07-14 19:02:42 [INFO] mvanholstyn joined the game
+2013-07-14 19:08:37 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 19:08:37 [INFO] mvanholstyn left the game
+2013-07-14 19:42:19 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 19:42:21 [INFO] Bumtop[/99.48.205.157:40974] logged in with entity id 5375076 at (-55.16163435925575, 62.0, 400.6643050269668)
+2013-07-14 19:42:21 [INFO] Bumtop joined the game
+2013-07-14 20:40:17 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 20:40:30 [INFO] mvanholstyn[/76.112.46.53:38438] logged in with entity id 5458586 at (-25.695565628353503, 49.0, 439.10546782001626)
+2013-07-14 20:40:30 [INFO] mvanholstyn joined the game
+2013-07-14 20:40:35 [INFO] <mvanholstyn> hey
+2013-07-14 20:40:40 [INFO] <Bumtop> howdy
+2013-07-14 20:41:08 [INFO] <Bumtop> i started a chicken farm behind the house
+2013-07-14 20:46:43 [INFO] <mvanholstyn> nice
+2013-07-14 20:46:47 [INFO] <Bumtop> i started with 3 chickens
+2013-07-14 20:47:09 [INFO] <Bumtop> yeah, they're not laying maybe eggs yet
+2013-07-14 20:47:21 [INFO] <mvanholstyn> door!
+2013-07-14 20:47:26 [INFO] <Bumtop> oh! good call!!
+2013-07-14 20:49:21 [INFO] <Bumtop> niiiiice
+2013-07-14 20:49:29 [INFO] <mvanholstyn> ahh
+2013-07-14 20:49:38 [INFO] <mvanholstyn> how do i get this back?
+2013-07-14 20:49:50 [INFO] <Bumtop> seeds
+2013-07-14 20:50:12 [INFO] <Bumtop> can you stand on the pressure plate?
+2013-07-14 20:50:35 [INFO] <Bumtop> i think the door was a bad idea now
+2013-07-14 20:50:38 [INFO] <mvanholstyn> i ruined it
+2013-07-14 20:51:10 [INFO] <mvanholstyn> i have on inside the house
+2013-07-14 20:51:13 [INFO] <mvanholstyn> one more out here to get
+2013-07-14 20:52:08 [INFO] <Bumtop> do we have a ladder?
+2013-07-14 20:52:42 [INFO] <Bumtop> i can keep them distracted
+2013-07-14 20:52:58 [INFO] <Bumtop> i make them have more babies
+2013-07-14 20:54:25 [INFO] <Bumtop> this is kinda creepy
+2013-07-14 20:55:08 [INFO] <Bumtop> i'll try to move them over
+2013-07-14 20:55:29 [INFO] <mvanholstyn> there, now maybe they cant get in the door
+2013-07-14 20:55:43 [INFO] <Bumtop> they can jump up one block..
+2013-07-14 20:55:53 [INFO] <mvanholstyn> hmm
+2013-07-14 20:56:53 [INFO] <Bumtop> you just have to be reallllllly quick
+2013-07-14 20:57:05 [INFO] <mvanholstyn> oh yeah, ther eis one in here
+2013-07-14 20:57:54 [INFO] <Bumtop> eh, i killed it
+2013-07-14 20:57:58 [INFO] <Bumtop> too much work
+2013-07-14 20:59:25 [INFO] <Bumtop> nice!
+2013-07-14 21:00:40 [INFO] <mvanholstyn> you break, i build behind you?
+2013-07-14 21:00:55 [INFO] <Bumtop> i can do that. just the glass view on the top?
+2013-07-14 21:01:10 [INFO] <mvanholstyn> i want to make them an entire glass cage
+2013-07-14 21:05:00 [INFO] <mvanholstyn> giv eme some seeds?
+2013-07-14 21:05:05 [INFO] <mvanholstyn> ill distract the rest
+2013-07-14 21:05:42 [INFO] <mvanholstyn> that is hot
+2013-07-14 21:09:50 [INFO] <mvanholstyn> there, now the floor is in the right place
+2013-07-14 21:10:07 [INFO] <Bumtop> want me to distract them again?
+2013-07-14 21:10:22 [INFO] <Bumtop> that was close
+2013-07-14 21:10:28 [INFO] <mvanholstyn> i like to live on the edge
+2013-07-14 21:13:24 [INFO] <mvanholstyn> now what?
+2013-07-14 21:13:34 [INFO] <Bumtop> we wait for eggs
+2013-07-14 21:13:51 [INFO] <Bumtop> and in the morning, i make them have sex again to make more babies
+2013-07-14 21:14:16 [INFO] <mvanholstyn> want to help me make the 2nd floor bigger?
+2013-07-14 21:14:21 [INFO] <Bumtop> sure
+2013-07-14 21:14:48 [INFO] <Bumtop> how much bigger?
+2013-07-14 21:14:54 [INFO] <mvanholstyn> ?
+2013-07-14 21:15:13 [INFO] <mvanholstyn> around the chickens
+2013-07-14 21:24:39 [INFO] <mvanholstyn> now its just part of the floor
+2013-07-14 21:24:45 [INFO] <Bumtop> very nice
+2013-07-14 21:25:23 [INFO] <mvanholstyn> i think i want to open up this staircase, thoughts?
+2013-07-14 21:25:42 [INFO] <Bumtop> like, get rid of the wall that separates it from the main room?
+2013-07-14 21:25:42 [INFO] <mvanholstyn> like upstairs
+2013-07-14 21:25:51 [INFO] <mvanholstyn> yeah
+2013-07-14 21:25:58 [INFO] <Bumtop> i'd be down for that
+2013-07-14 21:26:06 [INFO] <mvanholstyn> done deal
+2013-07-14 21:27:22 [INFO] <mvanholstyn> that seems better
+2013-07-14 21:27:28 [INFO] <Bumtop> agree
+2013-07-14 21:28:01 [INFO] <Bumtop> i'm going to move the furnace and stuff to this other wall
+2013-07-14 21:28:11 [INFO] <Bumtop> oh, i see what you're doing...
+2013-07-14 21:31:36 [INFO] <mvanholstyn> ahhhh, much better!
+2013-07-14 21:32:04 [INFO] <Bumtop> egggggggggs
+2013-07-14 21:34:08 [INFO] <mvanholstyn> now if chickes escape, they are just in our hose
+2013-07-14 21:34:21 [INFO] <Bumtop> i can deal with that
+2013-07-14 21:34:23 [INFO] <mvanholstyn> brb
+2013-07-14 21:34:25 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 21:34:25 [INFO] mvanholstyn left the game
+2013-07-14 21:53:41 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 21:53:42 [INFO] mvanholstyn[/76.112.46.53:36872] logged in with entity id 5539670 at (-50.643483234573, 62.0, 406.09400529104994)
+2013-07-14 21:53:42 [INFO] mvanholstyn joined the game
+2013-07-14 21:54:04 [INFO] <Bumtop> there's so many chickens now!!!
+2013-07-14 21:54:22 [INFO] <mvanholstyn> holy cow
+2013-07-14 21:54:55 [INFO] <Bumtop> can't let it get too crowded. otherwise they start dying
+2013-07-14 22:01:36 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 22:01:36 [INFO] mvanholstyn left the game
+2013-07-14 22:01:44 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-14 22:01:47 [INFO] mvanholstyn[/76.112.46.53:33668] logged in with entity id 5546010 at (-35.45518888491793, 52.0, 412.0179357915926)
+2013-07-14 22:01:47 [INFO] mvanholstyn joined the game
+2013-07-14 22:02:20 [INFO] <Bumtop> what's the game plan?
+2013-07-14 22:03:37 [INFO] mvanholstyn drowned
+2013-07-14 22:04:33 [INFO] <Bumtop> i got some of your stuff
+2013-07-14 22:05:43 [INFO] <mvanholstyn> what do you have?
+2013-07-14 22:05:43 [INFO] <Bumtop> sorry, you're stuff is inside
+2013-07-14 22:06:35 [INFO] <mvanholstyn> missing pants
+2013-07-14 22:06:43 [INFO] <Bumtop> didn't get those
+2013-07-14 22:07:09 [INFO] <mvanholstyn> and bread
+2013-07-14 22:07:37 [INFO] <Bumtop> it probably got added to what i already
+2013-07-14 22:08:02 [INFO] <mvanholstyn> got 'em
+2013-07-14 22:08:13 [INFO] <Bumtop> don't drown again
+2013-07-14 22:10:18 [INFO] <mvanholstyn> trying to make it that tall
+2013-07-14 22:10:22 [INFO] <mvanholstyn> so its 2 stories tall
+2013-07-14 22:10:28 [INFO] <Bumtop> gotcha
+2013-07-14 22:11:32 [INFO] <Bumtop> you can kill those chickens
+2013-07-14 22:11:43 [INFO] <mvanholstyn> you are a harsh master
+2013-07-14 22:12:10 [INFO] <Bumtop> i can always make more
+2013-07-14 22:13:09 [INFO] <Bumtop> there, i just made 10 more
+2013-07-14 22:14:26 [INFO] <Bumtop> kinda funny to watch
+2013-07-14 22:16:54 [INFO] <Bumtop> umm let me distract them
+2013-07-14 22:18:34 [INFO] <Bumtop> okay, i've got them all distracted
+2013-07-14 22:20:16 [INFO] <Bumtop> how are things going down there?
+2013-07-14 22:21:14 [INFO] <mvanholstyn> good
+2013-07-14 22:21:16 [INFO] <mvanholstyn> you can come down
+2013-07-14 22:24:49 [INFO] <mvanholstyn> ok, i think i can see waht to do up here now.
+2013-07-14 22:26:05 [INFO] <Bumtop> want me to get rid of this scaffolding?
+2013-07-14 22:26:11 [INFO] <mvanholstyn> not yet
+2013-07-14 22:30:25 [INFO] <mvanholstyn> i think can clear out now
+2013-07-14 22:36:21 [INFO] <mvanholstyn> we gotta do these walls taht arent flass yet
+2013-07-14 22:40:01 [INFO] <Bumtop> i thought the glass was just for where the water was exposed
+2013-07-14 22:40:13 [INFO] <mvanholstyn> hmm
+2013-07-14 22:41:01 [INFO] <mvanholstyn> all our chickens are in the ocean
+2013-07-14 22:54:38 [INFO] <Bumtop> stop for sec
+2013-07-14 22:54:49 [INFO] <mvanholstyn> ok
+2013-07-14 22:58:18 [INFO] <mvanholstyn> hows it look
+2013-07-14 22:58:39 [INFO] <Bumtop> ooooooo
+2013-07-14 22:58:42 [INFO] <Bumtop> i like it
+2013-07-14 23:01:15 [INFO] <Bumtop> don't drown!!!
+2013-07-14 23:01:43 [INFO] <mvanholstyn> hot ness
+2013-07-14 23:02:06 [INFO] <mvanholstyn> its still a bit of a cluster, but itll do for now i guess
+2013-07-14 23:02:19 [INFO] <Bumtop> we can work on it more tomorrow
+2013-07-14 23:02:39 [INFO] <mvanholstyn> yeah, we technically need to raise this floor up 2 also
+2013-07-14 23:10:03 [INFO] <mvanholstyn> ITS SCARING COMING IN HERE
+2013-07-14 23:10:08 [INFO] <mvanholstyn> oops, caps
+2013-07-14 23:10:33 [INFO] <mvanholstyn> mitch, the chicken whisperer
+2013-07-14 23:10:57 [INFO] <Bumtop> they like you too
+2013-07-14 23:11:05 [INFO] <mvanholstyn> i am scared to leave
+2013-07-14 23:11:23 [INFO] <Bumtop> you're fine
+2013-07-14 23:11:29 [INFO] <Bumtop> if any get out, kill them
+2013-07-14 23:11:35 [INFO] <Bumtop> there's way too many of them right now
+2013-07-14 23:13:41 [INFO] <Bumtop> what're you doing?
+2013-07-14 23:13:54 [INFO] <mvanholstyn> ladder
+2013-07-14 23:13:57 [INFO] <Bumtop> hahaha
+2013-07-14 23:14:06 [INFO] <mvanholstyn> you were right, thats safer
+2013-07-14 23:15:59 [INFO] <mvanholstyn> there is a chicken upstairs
+2013-07-14 23:16:07 [INFO] <mvanholstyn> can they use ladders?
+2013-07-14 23:16:25 [INFO] <Bumtop> don't think so
+2013-07-14 23:17:22 [INFO] <Bumtop> probably followed me out the door
+2013-07-14 23:20:21 [INFO] <mvanholstyn> now there is a trap door on the ladder
+2013-07-14 23:21:23 [INFO] <mvanholstyn> these chieks are so loud
+2013-07-14 23:21:50 [INFO] <mvanholstyn> ok, i better jet
+2013-07-14 23:22:01 [INFO] <Bumtop> i suppose i should too
+2013-07-14 23:22:02 [INFO] <mvanholstyn> nice work today!
+2013-07-14 23:22:11 [INFO] <Bumtop> you too!
+2013-07-14 23:23:15 [INFO] <mvanholstyn> sleep tightQ
+2013-07-14 23:23:19 [INFO] <Bumtop> you too
+2013-07-14 23:23:29 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-14 23:23:29 [INFO] mvanholstyn left the game
+2013-07-14 23:28:48 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-14 23:28:48 [INFO] Bumtop left the game
+2013-07-14 23:50:50 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-14 23:50:52 [INFO] Bumtop[/99.48.205.157:45871] logged in with entity id 5612800 at (-54.8455406780269, 66.0, 407.3750363221214)
+2013-07-14 23:50:52 [INFO] Bumtop joined the game
+2013-07-15 00:02:25 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-15 00:02:25 [INFO] Bumtop left the game
+2013-07-15 14:26:44 [INFO] Stopping server
+2013-07-15 14:27:52 [INFO] Starting minecraft server version 1.6.2
+2013-07-15 14:27:52 [INFO] Loading properties
+2013-07-15 14:27:52 [INFO] Default game type: SURVIVAL
+2013-07-15 14:27:52 [INFO] Generating keypair
+2013-07-15 14:27:52 [INFO] Starting Minecraft server on *:25565
+2013-07-15 14:27:52 [INFO] Preparing level "tutorial"
+2013-07-15 14:27:52 [INFO] Preparing start region for level 0
+2013-07-15 14:27:53 [INFO] Preparing spawn area: 10%
+2013-07-15 14:27:54 [INFO] Preparing spawn area: 70%
+2013-07-15 14:27:55 [INFO] Done (2.581s)! For help, type "help" or "?"
+2013-07-15 14:28:10 [SEVERE] Reached end of stream for /199.116.52.94
+2013-07-15 14:28:12 [INFO] mvanholstyn[/199.116.52.94:44903] logged in with entity id 243 at (-48.82769786689734, 62.0, 411.1475892927393)
+2013-07-15 14:28:12 [INFO] mvanholstyn joined the game
+2013-07-15 14:29:31 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-15 14:29:31 [INFO] mvanholstyn left the game
+2013-07-15 18:32:51 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-15 18:32:56 [INFO] Bumtop[/99.48.205.157:47008] logged in with entity id 1427 at (-54.68722959904376, 66.0, 410.99687747824817)
+2013-07-15 18:32:56 [INFO] Bumtop joined the game
+2013-07-15 19:47:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-15 19:50:59 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-15 19:50:59 [INFO] Bumtop left the game
+2013-07-15 20:00:19 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-15 20:00:25 [INFO] Bumtop[/99.48.205.157:35322] logged in with entity id 55092 at (-50.69258097069999, 66.0, 408.79689420066813)
+2013-07-15 20:00:25 [INFO] Bumtop joined the game
+2013-07-15 20:13:06 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-15 20:13:06 [INFO] Bumtop left the game
+2013-07-15 21:18:39 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-15 21:18:43 [INFO] Bumtop[/99.48.205.157:33893] logged in with entity id 64347 at (-55.81695173860384, 66.0, 410.30010297425906)
+2013-07-15 21:18:43 [INFO] Bumtop joined the game
+2013-07-15 22:59:49 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-15 22:59:49 [INFO] Bumtop left the game
+2013-07-15 23:21:34 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-15 23:21:37 [INFO] Bumtop[/99.48.205.157:42693] logged in with entity id 388424 at (-50.87620319453016, 66.0, 409.2348309321172)
+2013-07-15 23:21:37 [INFO] Bumtop joined the game
+2013-07-15 23:34:23 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-15 23:34:23 [INFO] Bumtop left the game
+2013-07-16 20:07:22 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-16 20:07:26 [INFO] Bumtop[/99.48.205.157:36036] logged in with entity id 403532 at (-53.26672379110394, 66.0, 407.2480833370288)
+2013-07-16 20:07:26 [INFO] Bumtop joined the game
+2013-07-16 21:13:58 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-16 21:14:00 [INFO] mvanholstyn[/76.112.46.53:36503] logged in with entity id 461036 at (-47.27273627411632, 54.0, 418.01434645169854)
+2013-07-16 21:14:00 [INFO] mvanholstyn joined the game
+2013-07-16 21:14:10 [INFO] <mvanholstyn> hey
+2013-07-16 21:14:17 [INFO] <Bumtop> careful, there's a creeper right outside the front door
+2013-07-16 21:14:39 [INFO] <Bumtop> ouch
+2013-07-16 21:14:42 [INFO] <mvanholstyn> i killed 'em
+2013-07-16 21:14:50 [INFO] <Bumtop> you rock
+2013-07-16 21:15:06 [INFO] <mvanholstyn> so what have you been up to in minecraft land?
+2013-07-16 21:15:34 [INFO] <Bumtop> we've got a sugar cane and pumpkin patch down in the wheat farm now
+2013-07-16 21:15:44 [INFO] <Bumtop> just killed a bunch of chicken for food
+2013-07-16 21:15:59 [INFO] <Bumtop> now i'm going to go find some pigs :)
+2013-07-16 21:17:14 [INFO] <Bumtop> oh, i also moved the ingots over to a chest by the furnaces
+2013-07-16 21:17:16 [INFO] <mvanholstyn> what are pigs for?
+2013-07-16 21:17:22 [INFO] <Bumtop> you can ride them!!
+2013-07-16 21:17:24 [INFO] <mvanholstyn> very nice
+2013-07-16 21:17:30 [INFO] <mvanholstyn> have you done it?
+2013-07-16 21:17:40 [INFO] <Bumtop> not yet, came back to get some supplies
+2013-07-16 21:17:57 [INFO] <mvanholstyn> you need a saddle and a carrot on a stick
+2013-07-16 21:18:00 [INFO] <Bumtop> yup
+2013-07-16 21:18:05 [INFO] <mvanholstyn> they are sorta frustrating
+2013-07-16 21:18:19 [INFO] <Bumtop> i thought i might keep it here somehow
+2013-07-16 21:18:25 [INFO] <Bumtop> don't know where though
+2013-07-16 21:18:41 [INFO] <mvanholstyn> ill build a pig pen
+2013-07-16 21:18:51 [INFO] <Bumtop> :)
+2013-07-16 21:19:16 [INFO] <mvanholstyn> is our chicken farm big enough?
+2013-07-16 21:19:22 [INFO] <Bumtop> yeah
+2013-07-16 21:19:33 [INFO] <Bumtop> we don't need any more
+2013-07-16 21:24:22 [INFO] <Bumtop> what are the coordinates again?
+2013-07-16 21:24:30 [INFO] <mvanholstyn> -50,400
+2013-07-16 21:25:02 [INFO] <Bumtop> there it is
+2013-07-16 21:27:29 [INFO] <Bumtop> nice
+2013-07-16 21:29:36 [INFO] <Bumtop> what ya digging there for?
+2013-07-16 21:29:48 [INFO] <mvanholstyn> getting sand
+2013-07-16 21:29:55 [INFO] <Bumtop> gotcha
+2013-07-16 21:31:20 [INFO] <mvanholstyn> the pig can go back here somewhere
+2013-07-16 21:31:28 [INFO] <Bumtop> sure
+2013-07-16 21:32:17 [INFO] <Bumtop> i added more light near the beds cause creepers were spawning up there
+2013-07-16 21:32:20 [INFO] <mvanholstyn> so much space!
+2013-07-16 21:32:23 [INFO] <mvanholstyn> good call
+2013-07-16 21:32:26 [INFO] <Bumtop> :)
+2013-07-16 21:37:40 [INFO] <mvanholstyn> can you mate pigs?
+2013-07-16 21:37:51 [INFO] <Bumtop> yup, with carrots
+2013-07-16 21:37:56 [INFO] <mvanholstyn> what about sheep?
+2013-07-16 21:38:00 [INFO] <mvanholstyn> shoudl we get those too?
+2013-07-16 21:38:11 [INFO] <mvanholstyn> and cows
+2013-07-16 21:38:13 [INFO] <Bumtop> sheep are only good for wool, i think
+2013-07-16 21:38:20 [INFO] <Bumtop> cows might be good
+2013-07-16 21:38:58 [INFO] <Bumtop> and now i can't remember where i saw those pigs
+2013-07-16 21:39:59 [INFO] <Bumtop> always lots of sheep around here
+2013-07-16 21:42:12 [INFO] <mvanholstyn> ok, i made a couple pens for them
+2013-07-16 21:42:24 [INFO] <mvanholstyn> how do i get sheep to come back with me?
+2013-07-16 21:42:36 [INFO] <Bumtop> wheat, maybe
+2013-07-16 21:42:46 [INFO] <mvanholstyn> just hold it?
+2013-07-16 21:42:53 [INFO] <Bumtop> yup
+2013-07-16 21:45:21 [INFO] <mvanholstyn> tsleep?
+2013-07-16 21:46:39 [INFO] <Bumtop> can't hit it
+2013-07-16 21:46:52 [INFO] <Bumtop> it's following you
+2013-07-16 21:47:14 [INFO] <Bumtop> you got it
+2013-07-16 21:47:31 [INFO] <Bumtop> don't get too far ahead of it
+2013-07-16 21:48:21 [INFO] <Bumtop> might have an issue getting through the door
+2013-07-16 21:49:06 [INFO] <Bumtop> they can be stupid sometimes
+2013-07-16 21:49:43 [INFO] <Bumtop> spider in the bedroom
+2013-07-16 21:50:28 [INFO] <Bumtop> haha, didn't know i could push it in
+2013-07-16 21:51:20 [INFO] <mvanholstyn> i think you have the rest of the front entrance
+2013-07-16 21:51:32 [INFO] <mvanholstyn> moss + stairs
+2013-07-16 21:51:38 [INFO] <mvanholstyn> 2 stairs outside
+2013-07-16 21:51:58 [INFO] <Bumtop> got it
+2013-07-16 21:52:33 [INFO] <mvanholstyn> another coming
+2013-07-16 21:52:40 [INFO] <mvanholstyn> you are on push duty
+2013-07-16 21:52:46 [INFO] <Bumtop> sure
+2013-07-16 21:53:41 [INFO] <Bumtop> it can't see the wheat when you go inside
+2013-07-16 21:54:04 [INFO] <Bumtop> wtf
+2013-07-16 21:55:23 [INFO] <Bumtop> wow, that wasn't a pain in the butt
+2013-07-16 21:55:41 [INFO] <mvanholstyn> now what?
+2013-07-16 21:55:45 [INFO] <Bumtop> right click to feed them
+2013-07-16 21:55:55 [INFO] <Bumtop> babies!!
+2013-07-16 21:55:56 [INFO] <mvanholstyn> ahh
+2013-07-16 21:56:03 [INFO] <mvanholstyn> giant headed sheep baby
+2013-07-16 21:56:07 [INFO] <Bumtop> you can only do that every once in a while
+2013-07-16 21:56:13 [INFO] <Bumtop> or 5-10 minutes, i think
+2013-07-16 21:56:25 [INFO] <mvanholstyn> cant do it again right now?
+2013-07-16 21:56:29 [INFO] <Bumtop> nope
+2013-07-16 21:56:52 [INFO] <mvanholstyn> i an do this though...
+2013-07-16 21:57:08 [INFO] <mvanholstyn> shears!
+2013-07-16 21:57:09 [INFO] <Bumtop> what did you do?
+2013-07-16 21:57:15 [INFO] <mvanholstyn> and got wool
+2013-07-16 21:57:15 [INFO] <Bumtop> ahhhhhh
+2013-07-16 21:57:23 [INFO] <Bumtop> niiiiiiiice
+2013-07-16 21:57:44 [INFO] <Bumtop> so, we're pretty much set on food and wool
+2013-07-16 21:58:12 [INFO] <mvanholstyn> pigs or cows now?
+2013-07-16 21:58:22 [INFO] <Bumtop> cows
+2013-07-16 21:58:33 [INFO] <Bumtop> or whatever we find first
+2013-07-16 21:59:45 [INFO] <mvanholstyn> there or ocelots
+2013-07-16 22:07:40 [INFO] <mvanholstyn> so we can breed pigs, cows, mooshrooms, wolves, ocelots, and horses
+2013-07-16 22:08:00 [INFO] <Bumtop> !!!! we need an ocelot!!!
+2013-07-16 22:10:28 [INFO] <mvanholstyn> do we have extra storage bins anywhere?
+2013-07-16 22:11:01 [INFO] <Bumtop> just this one i think
+2013-07-16 22:11:08 [INFO] <Bumtop> the one you moved the dirt out of
+2013-07-16 22:11:26 [INFO] <Bumtop> making one just for wool?
+2013-07-16 22:11:29 [INFO] <mvanholstyn> yup
+2013-07-16 22:12:27 [INFO] <mvanholstyn> shears are in there too
+2013-07-16 22:12:27 [INFO] <Bumtop> nice
+2013-07-16 22:12:52 [INFO] <Bumtop> now i don't know what to do with all these eggs
+2013-07-16 22:12:54 [INFO] <mvanholstyn> ok, cow/pig time
+2013-07-16 22:13:13 [INFO] <mvanholstyn> cake and pumpkin pie?
+2013-07-16 22:13:22 [INFO] <Bumtop> don't have much day light
+2013-07-16 22:13:31 [INFO] <Bumtop> true
+2013-07-16 22:13:45 [INFO] <Bumtop> since we're growing all of the ingredients now
+2013-07-16 22:14:06 [INFO] <mvanholstyn> you can "throw" them to make baby chickens
+2013-07-16 22:14:21 [INFO] <Bumtop> true too, but it's easier just to mate them
+2013-07-16 22:14:34 [INFO] <mvanholstyn> lets sleep, then head out
+2013-07-16 22:14:45 [INFO] <mvanholstyn> might need to wait a sec
+2013-07-16 22:14:52 [INFO] <Bumtop> gonna make a few more pies
+2013-07-16 22:15:39 [INFO] <Bumtop> yeah, we need cows next
+2013-07-16 22:15:43 [INFO] <Bumtop> for milk and steak
+2013-07-16 22:15:49 [INFO] <Bumtop> :D
+2013-07-16 22:16:35 [INFO] <mvanholstyn> ill go find a cow
+2013-07-16 22:17:35 [INFO] <mvanholstyn> PIG!
+2013-07-16 22:17:50 [INFO] <Bumtop> ok, let's get it
+2013-07-16 22:18:00 [INFO] <mvanholstyn> i dont haev the necessary thigns
+2013-07-16 22:18:10 [INFO] <Bumtop> i have wheat
+2013-07-16 22:18:22 [INFO] <Bumtop> crap, we need carrots
+2013-07-16 22:18:35 [INFO] <mvanholstyn> dont you have a carrot on a stick?
+2013-07-16 22:20:04 [INFO] <Bumtop> i know where to find cows if you want to get a pig
+2013-07-16 22:20:23 [INFO] <mvanholstyn> don't you have our carrot on a stick?
+2013-07-16 22:20:33 [INFO] <Bumtop> crap, yes
+2013-07-16 22:20:48 [INFO] <mvanholstyn> where are cows?
+2013-07-16 22:21:23 [INFO] <Bumtop> to the West
+2013-07-16 22:22:53 [INFO] <mvanholstyn> did you do this giant hole?
+2013-07-16 22:23:00 [INFO] <Bumtop> yes
+2013-07-16 22:23:03 [INFO] <mvanholstyn> woah
+2013-07-16 22:23:08 [INFO] <mvanholstyn> how did you do all this?
+2013-07-16 22:23:10 [INFO] <mvanholstyn> also, why?
+2013-07-16 22:23:22 [INFO] <Bumtop> there was a lot of coal and iron in there
+2013-07-16 22:23:25 [INFO] <mvanholstyn> haha
+2013-07-16 22:23:28 [INFO] <mvanholstyn> its huge
+2013-07-16 22:24:55 [INFO] <Bumtop> can't seem to find the pigs again
+2013-07-16 22:25:05 [INFO] <Bumtop> i swear i went the same way we did
+2013-07-16 22:25:11 [INFO] <mvanholstyn> they were northwww
+2013-07-16 22:26:07 [INFO] <Bumtop> yay! found them.
+2013-07-16 22:29:31 [INFO] <Bumtop> that was a lot easier
+2013-07-16 22:29:36 [INFO] <mvanholstyn> that box is also for milk
+2013-07-16 22:29:56 [INFO] <Bumtop> i put the carrot on a stick in there too
+2013-07-16 22:30:28 [INFO] <Bumtop> yay milk!
+2013-07-16 22:32:00 [INFO] <mvanholstyn> we shoudl also make farms for all the different plants
+2013-07-16 22:32:16 [INFO] <mvanholstyn> sleep?
+2013-07-16 22:32:18 [INFO] <Bumtop> sure
+2013-07-16 22:36:25 [INFO] <Bumtop> got the pig
+2013-07-16 22:37:11 [INFO] <mvanholstyn> got a cow
+2013-07-16 22:40:12 [INFO] <mvanholstyn> i gotta jet for a bit
+2013-07-16 22:40:33 [INFO] <mvanholstyn> 2 cows in + a baby now!
+2013-07-16 22:40:39 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-16 22:40:39 [INFO] mvanholstyn left the game
+2013-07-16 22:55:56 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-16 22:55:56 [INFO] Bumtop left the game
+2013-07-16 23:17:55 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-16 23:17:57 [INFO] mvanholstyn[/76.112.46.53:38957] logged in with entity id 670906 at (-51.83453595126251, 62.0, 402.0879923800959)
+2013-07-16 23:17:57 [INFO] mvanholstyn joined the game
+2013-07-17 00:18:22 [INFO] mvanholstyn burned to death
+2013-07-17 01:03:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-17 02:18:48 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-17 02:18:48 [INFO] mvanholstyn left the game
+2013-07-17 18:16:02 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-17 18:16:04 [INFO] Bumtop[/99.48.205.157:44492] logged in with entity id 889435 at (-51.11544576445121, 66.0, 409.55700743845654)
+2013-07-17 18:16:04 [INFO] Bumtop joined the game
+2013-07-17 18:35:19 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-17 18:35:19 [INFO] Bumtop left the game
+2013-07-17 19:48:16 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-17 19:48:19 [INFO] Bumtop[/99.48.205.157:44478] logged in with entity id 907111 at (-53.50754989200912, 66.0, 406.6709667694162)
+2013-07-17 19:48:19 [INFO] Bumtop joined the game
+2013-07-17 20:19:28 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-17 20:19:28 [INFO] Bumtop left the game
+2013-07-17 20:30:07 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-17 20:30:09 [INFO] Bumtop[/99.48.205.157:47584] logged in with entity id 934129 at (-51.638180308354315, 66.0, 406.93792835611595)
+2013-07-17 20:30:09 [INFO] Bumtop joined the game
+2013-07-17 20:37:01 [INFO] Bumtop was slain by Enderman
+2013-07-17 21:02:51 [WARNING] Bumtop moved wrongly!
+2013-07-17 22:01:46 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-17 22:01:46 [INFO] Bumtop left the game
+2013-07-17 22:04:08 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-17 22:04:11 [INFO] Bumtop[/99.48.205.157:34750] logged in with entity id 1859412 at (-53.32062598913274, 66.0, 406.8408024450628)
+2013-07-17 22:04:11 [INFO] Bumtop joined the game
+2013-07-17 22:04:56 [INFO] Bumtop walked into fire whilst fighting Zombie Pigman
+2013-07-17 22:14:29 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-17 22:14:29 [INFO] Bumtop left the game
+2013-07-18 10:45:23 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-18 10:45:25 [INFO] mvanholstyn[/76.112.46.53:41227] logged in with entity id 1879200 at (-66.8278758838402, 62.0, 411.7219390170497)
+2013-07-18 10:45:25 [INFO] mvanholstyn joined the game
+2013-07-18 10:48:35 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-18 10:48:35 [INFO] mvanholstyn left the game
+2013-07-19 00:15:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 00:18:18 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 00:18:29 [INFO] mvanholstyn[/76.112.46.53:45819] logged in with entity id 1882996 at (-64.67869620173576, 62.0, 411.3943085163928)
+2013-07-19 00:18:29 [INFO] mvanholstyn joined the game
+2013-07-19 00:18:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 00:18:58 [INFO] dbish1984[/76.112.46.53:43607] logged in with entity id 1883310 at (-58.373336168111535, 62.875, 405.163800913762)
+2013-07-19 00:18:58 [INFO] dbish1984 joined the game
+2013-07-19 00:27:41 [INFO] dbish1984 fell from a high place
+2013-07-19 00:28:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 00:31:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 00:31:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 00:36:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 00:50:06 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 00:50:06 [INFO] mvanholstyn left the game
+2013-07-19 00:54:24 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 00:54:26 [INFO] mvanholstyn[/76.112.46.53:44876] logged in with entity id 2061124 at (-62.859338885357396, 62.0, 411.8376470275578)
+2013-07-19 00:54:26 [INFO] mvanholstyn joined the game
+2013-07-19 00:58:25 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 00:58:25 [INFO] mvanholstyn left the game
+2013-07-19 01:06:02 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 01:06:02 [INFO] dbish1984 lost connection: disconnect.endOfStream
+2013-07-19 01:06:02 [INFO] dbish1984 left the game
+2013-07-19 14:14:57 [SEVERE] Reached end of stream for /173.15.252.193
+2013-07-19 14:15:01 [INFO] Bumtop[/173.15.252.193:45822] logged in with entity id 2074206 at (-53.49274777697951, 66.0, 406.79729132550875)
+2013-07-19 14:15:01 [INFO] Bumtop joined the game
+2013-07-19 14:15:35 [SEVERE] Reached end of stream for /173.15.252.193
+2013-07-19 14:15:35 [INFO] Bumtop lost connection: disconnect.endOfStream
+2013-07-19 14:15:35 [INFO] Bumtop left the game
+2013-07-19 14:15:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-19 14:15:37 [SEVERE] Reached end of stream for /173.15.252.193
+2013-07-19 14:20:37 [SEVERE] Reached end of stream for /173.15.252.193
+2013-07-19 14:20:39 [INFO] Bumtop[/173.15.252.193:50608] logged in with entity id 2074464 at (-60.782471188434286, 66.0, 411.2922481242785)
+2013-07-19 14:20:39 [INFO] Bumtop joined the game
+2013-07-19 14:22:27 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-19 14:22:27 [INFO] Bumtop left the game
+2013-07-19 19:18:02 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 19:18:05 [INFO] mvanholstyn[/76.112.46.53:42882] logged in with entity id 2077084 at (-55.22632640998799, 62.0, 399.30000001192093)
+2013-07-19 19:18:05 [INFO] mvanholstyn joined the game
+2013-07-19 19:43:08 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 19:43:08 [INFO] mvanholstyn left the game
+2013-07-19 19:44:54 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 19:44:55 [INFO] mvanholstyn[/76.112.46.53:40364] logged in with entity id 2112669 at (341.5, 69.0, 1623.5)
+2013-07-19 19:44:55 [INFO] mvanholstyn joined the game
+2013-07-19 20:09:12 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 20:09:12 [INFO] mvanholstyn left the game
+2013-07-19 20:18:46 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 20:18:48 [INFO] mvanholstyn[/76.112.46.53:33814] logged in with entity id 2145438 at (-136.42188125167272, 53.0, 1245.5343818191004)
+2013-07-19 20:18:48 [INFO] mvanholstyn joined the game
+2013-07-19 20:24:17 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 20:24:17 [INFO] mvanholstyn left the game
+2013-07-19 20:38:56 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 20:38:57 [INFO] mvanholstyn[/76.112.46.53:46220] logged in with entity id 2148505 at (-152.5895021138547, 32.0, 1196.300000011921)
+2013-07-19 20:38:57 [INFO] mvanholstyn joined the game
+2013-07-19 20:47:05 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 20:47:05 [INFO] mvanholstyn left the game
+2013-07-19 21:17:07 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-19 21:17:09 [INFO] Bumtop[/99.48.205.157:37285] logged in with entity id 2153566 at (-52.77879832036649, 66.0, 406.6360615405499)
+2013-07-19 21:17:09 [INFO] Bumtop joined the game
+2013-07-19 21:23:59 [INFO] Bumtop lost connection: disconnect.quitting
+2013-07-19 21:23:59 [INFO] Bumtop left the game
+2013-07-19 22:36:09 [SEVERE] Reached end of stream for /99.48.205.157
+2013-07-19 22:36:12 [INFO] Bumtop[/99.48.205.157:46163] logged in with entity id 2165430 at (-52.91862661828972, 66.0, 407.49613908281947)
+2013-07-19 22:36:12 [INFO] Bumtop joined the game
+2013-07-19 22:41:24 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 22:41:26 [INFO] mvanholstyn[/76.112.46.53:36966] logged in with entity id 2172386 at (-186.35926437280057, 31.0, 1166.300000011921)
+2013-07-19 22:41:26 [INFO] mvanholstyn joined the game
+2013-07-19 22:41:41 [INFO] <Bumtop> Hi Mark!
+2013-07-19 22:41:51 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-07-19 22:41:51 [INFO] mvanholstyn left the game
+2013-07-19 22:45:31 [SEVERE] Reached end of stream for /76.112.46.53
+2013-07-19 22:45:39 [INFO] mvanholstyn[/76.112.46.53:39894] logged in with entity id 2175814 at (-185.30000001192093, 31.0, 1166.300000011921)
+2013-07-19 22:45:39 [INFO] mvanholstyn joined the game
+2013-07-19 22:45:41 [INFO] <mvanholstyn> hey!
+2013-07-19 22:48:07 [INFO] <mvanholstyn> i am far away
+2013-07-19 22:48:30 [INFO] <Bumtop> me too
+2013-07-19 22:48:38 [INFO] <mvanholstyn> where are you?
+2013-07-19 22:48:41 [INFO] <Bumtop> actually, i think i can see the tower
+2013-07-19 22:48:45 [INFO] <Bumtop> just west of it
+2013-07-19 22:48:58 [INFO] <Bumtop> i found a desert area and got a ton of sand
+2013-07-19 22:50:11 [INFO] <Bumtop> i'm home
+2013-07-19 22:50:39 [INFO] <Bumtop> where are you?
+2013-07-19 23:06:40 [INFO] <Bumtop> you still here?
+2013-07-19 23:06:45 [INFO] <mvanholstyn> yup
+2013-07-19 23:06:58 [INFO] <Bumtop> out exploring?
+2013-07-19 23:07:19 [INFO] <mvanholstyn> can you sleep?
+2013-07-19 23:07:27 [INFO] <mvanholstyn> trying to get back, dont want to try at night
+2013-07-19 23:08:07 [INFO] <Bumtop> done
+2013-07-19 23:08:22 [INFO] <mvanholstyn> ty
+2013-07-19 23:08:30 [INFO] <mvanholstyn> be at the house in a min
+2013-07-19 23:10:52 [INFO] <Bumtop> holy crap, there are a lot of sheep now
+2013-07-19 23:11:28 [INFO] <mvanholstyn> hi!
+2013-07-19 23:11:40 [INFO] <Bumtop> oh hi
+2013-07-19 23:12:23 [INFO] <mvanholstyn> i killed enderman
+2013-07-19 23:12:28 [INFO] <Bumtop> yesssss
+2013-07-19 23:12:50 [INFO] <Bumtop> i got a lot more sand in case we need more glass
+2013-07-19 23:13:50 [INFO] <Bumtop> find any good stuff?
+2013-07-19 23:14:07 [INFO] <Bumtop> whoa, lots of iron apparently
+2013-07-19 23:15:05 [INFO] <mvanholstyn> bricks!
+2013-07-19 23:15:09 [INFO] <Bumtop> yay!
+2013-07-19 23:15:15 [INFO] <mvanholstyn> thats all i had of them though
+2013-07-19 23:15:23 [INFO] <Bumtop> :(
+2013-07-19 23:15:36 [INFO] <mvanholstyn> what shall we mine/build/gather/do?
+2013-07-19 23:16:13 [INFO] <Bumtop> good question
+2013-07-19 23:16:32 [INFO] <Bumtop> been thinking about expanding the crops
+2013-07-19 23:16:41 [INFO] <Bumtop> like do a huge sugar cane farm
+2013-07-19 23:16:49 [INFO] <mvanholstyn> lets do it!
+2013-07-19 23:16:49 [INFO] <Bumtop> and a big pumpkin patch
+2013-07-19 23:17:07 [INFO] <Bumtop> don't know if it'd go here though
+2013-07-19 23:17:08 [INFO] <mvanholstyn> we should build it up where you are
+2013-07-19 23:17:10 [INFO] <mvanholstyn> that level
+2013-07-19 23:17:19 [INFO] <mvanholstyn> where?
+2013-07-19 23:17:25 [INFO] <Bumtop> actually, that would work
+2013-07-19 23:17:36 [INFO] <Bumtop> i like the idea of having the stuff at different levels
+2013-07-19 23:18:15 [INFO] <mvanholstyn> might have to move the portal
+2013-07-19 23:18:21 [INFO] <Bumtop> yeah, i was thinking the same thing
+2013-07-19 23:23:54 [INFO] <Bumtop> good start
+2013-07-19 23:24:03 [INFO] <mvanholstyn> and we have water!
+2013-07-19 23:24:31 [INFO] <Bumtop> can you put a torch over here?
+2013-07-19 23:24:39 [INFO] <Bumtop> ty!
+2013-07-19 23:25:58 [INFO] <Bumtop> i'm gonna get some more torches
+2013-07-19 23:31:13 [INFO] <Bumtop> i gotta think about what kind of pattern to use for the water holes
+2013-07-19 23:33:00 [INFO] <Bumtop> i've got the water buckets
+2013-07-19 23:33:27 [INFO] <Bumtop> think we should keep going with this wall?
+2013-07-19 23:33:52 [INFO] <mvanholstyn> which wall?
+2013-07-19 23:34:05 [INFO] <Bumtop> the long wall
+2013-07-19 23:34:14 [INFO] <mvanholstyn> maybe... how much are you goign to plant?
+2013-07-19 23:34:42 [INFO] <Bumtop> a lot
+2013-07-19 23:36:25 [INFO] <Bumtop> i think there's water above us
+2013-07-19 23:36:37 [INFO] <mvanholstyn> yeah?
+2013-07-19 23:41:07 [INFO] <Bumtop> need to make some more pickaxes
+2013-07-19 23:41:15 [INFO] <mvanholstyn> make me 6?
+2013-07-19 23:41:22 [INFO] <Bumtop> sure
+2013-07-19 23:44:44 [INFO] <Bumtop> i've got more
+2013-07-19 23:44:57 [INFO] <mvanholstyn> hold 'em for now
+2013-07-19 23:44:59 [INFO] <mvanholstyn> i got full
+2013-07-19 23:45:01 [INFO] <Bumtop> k
+2013-07-19 23:48:25 [INFO] <Bumtop> ummm.... i fell down a deep hole
+2013-07-19 23:48:46 [INFO] <mvanholstyn> lol
+2013-07-19 23:48:48 [INFO] <mvanholstyn> i see you!
+2013-07-20 00:07:08 [INFO] <mvanholstyn> there you go!
+2013-07-20 00:07:13 [INFO] <mvanholstyn> giant spacE!
+2013-07-20 00:07:19 [INFO] <mvanholstyn> lilly pads?
+2013-07-20 00:07:20 [INFO] <Bumtop> yay!!
+2013-07-20 00:07:25 [INFO] <Bumtop> you can stand on them
+2013-07-20 00:07:27 [INFO] <mvanholstyn> nice
+2013-07-20 00:07:29 [INFO] <mvanholstyn> good call
+2013-07-20 00:10:58 [INFO] <Bumtop> wish we had access to glowstones
+2013-07-20 00:11:05 [INFO] <mvanholstyn> what is that?
+2013-07-20 00:11:13 [INFO] <Bumtop> stones that glow
+2013-07-20 00:11:21 [INFO] <mvanholstyn> how are they made?
+2013-07-20 00:11:35 [INFO] <Bumtop> glow dust i think
+2013-07-20 00:11:45 [INFO] <Bumtop> it comes from the Nether....
+2013-07-20 00:11:53 [INFO] <mvanholstyn> time for a trip?
+2013-07-20 00:12:10 [INFO] <mvanholstyn> how are glow stones useful?
+2013-07-20 00:12:11 [INFO] <Bumtop> i already told you what happened to me when i went
+2013-07-20 00:12:34 [INFO] <Bumtop> alternative to the torches, and they can be placed light regular blocks
+2013-07-20 00:12:47 [INFO] <mvanholstyn> you can make jackolanterns
+2013-07-20 00:13:00 [INFO] <Bumtop> ooooooooooo i forgot about those!!
+2013-07-20 00:13:33 [INFO] <Bumtop> is it pumpkin + torch?
+2013-07-20 00:13:41 [INFO] <mvanholstyn> something like that
+2013-07-20 00:14:09 [INFO] <Bumtop> made 5 for now
+2013-07-20 00:20:22 [INFO] <Bumtop> before you put dirt down, i need to find out if we need two layers of dirt below the other crops
+2013-07-20 00:20:32 [INFO] <mvanholstyn> ok
+2013-07-20 00:21:02 [INFO] <Bumtop> apparently sugar cane needs 2, but i don't know if thats needed for stuff like melons
+2013-07-20 00:21:20 [INFO] <mvanholstyn> did we do 2 under those?
+2013-07-20 00:21:46 [INFO] <Bumtop> most of it, there are a few patches that didn't but i dont have any more to plant right now
+2013-07-20 00:22:42 [INFO] <Bumtop> might as well go a little deeper. there's iron over here.
+2013-07-20 00:29:48 [INFO] <mvanholstyn> BAM
+2013-07-20 00:30:07 [INFO] <Bumtop> when you gather sugar cane, don't cut it all the way down
+2013-07-20 00:30:12 [INFO] <mvanholstyn> ok
+2013-07-20 00:30:17 [INFO] <Bumtop> always leave a bit in the ground
+2013-07-20 00:30:42 [INFO] <Bumtop> good call!
+2013-07-20 00:32:20 [INFO] <mvanholstyn> what do you plant?
+2013-07-20 00:32:29 [INFO] <Bumtop> sugar cane
+2013-07-20 00:33:03 [INFO] <Bumtop> got more dirt?
+2013-07-20 00:33:07 [INFO] <mvanholstyn> yup
+2013-07-20 00:34:26 [INFO] <mvanholstyn> what do you need it for?
+2013-07-20 00:34:32 [INFO] <Bumtop> sugar
+2013-07-20 00:34:52 [INFO] <Bumtop> gonna be honest, we don't really need sugar for anything important
+2013-07-20 00:34:59 [INFO] <mvanholstyn> lol
+2013-07-20 00:35:03 [INFO] <mvanholstyn> what is it used for?
+2013-07-20 00:35:07 [INFO] <mvanholstyn> paper i know
+2013-07-20 00:35:12 [INFO] <Bumtop> to make paper and food
+2013-07-20 00:36:04 [INFO] <Bumtop> its like chickens kinda
+2013-07-20 00:36:28 [INFO] <Bumtop> in that this is probably overkill for what we really need
+2013-07-20 00:36:33 [INFO] <Bumtop> but it is impressive
+2013-07-20 00:36:46 [INFO] <Bumtop> especially for how fast it seems to be growing already
+2013-07-20 00:39:04 [INFO] <Bumtop> ooooohhhh
+2013-07-20 00:39:18 [INFO] <Bumtop> the patches it can't grow in are cause of the water requirements
+2013-07-20 00:39:49 [INFO] <mvanholstyn> ah
+2013-07-20 00:40:06 [INFO] <Bumtop> needs to share at least one side with a water block
+2013-07-20 00:40:29 [INFO] <Bumtop> oh well, the outer rows will just have some patches for now
+2013-07-20 00:43:24 [INFO] <Bumtop> think i'm going to convert the little sugar cane patch into a melon patch
+2013-07-20 00:56:53 [INFO] <Bumtop> so much sugar!!!!
+2013-07-20 00:58:48 [INFO] <Bumtop> haha i was just thinking about that
+2013-07-20 01:04:38 [INFO] <Bumtop> can we make bricks?
+2013-07-20 01:04:50 [INFO] <mvanholstyn> yes, with clay
+2013-07-20 01:05:02 [INFO] <Bumtop> where in the world did you find clay?
+2013-07-20 01:05:09 [INFO] <mvanholstyn> in the water
+2013-07-20 01:05:14 [INFO] <Bumtop> ooohhhh
+2013-07-20 01:07:54 [INFO] <Bumtop> ahhhh! pig man came through the Nether portal
+2013-07-20 01:08:20 [INFO] <Bumtop> how did that happen???
+2013-07-20 01:10:55 [INFO] <Bumtop> what next?
+2013-07-20 01:15:12 [INFO] <mvanholstyn> hmm
+2013-07-20 01:15:28 [INFO] <mvanholstyn> i want to makre more stuff out of glass
+2013-07-20 01:15:31 [INFO] <mvanholstyn> just not sure what
+2013-07-20 01:15:57 [INFO] <Bumtop> we've got a melon!!
+2013-07-20 01:16:54 [INFO] <Bumtop> well i can always go get a lot more sand to make glass
+2013-07-20 01:17:04 [INFO] <mvanholstyn> i think we have plenty
+2013-07-20 01:17:12 [INFO] <mvanholstyn> no
+2013-07-20 01:18:22 [INFO] <Bumtop> oooo, how about a glass dome on the top of that floor above the bedroom?
+2013-07-20 01:18:50 [INFO] <Bumtop> how did a creeper get inside???
+2013-07-20 01:18:54 [INFO] <mvanholstyn> i dunoo
+2013-07-20 01:20:47 [INFO] <Bumtop> we've got a breach somewhere
+2013-07-20 01:21:16 [INFO] <Bumtop> over here!
+2013-07-20 01:21:26 [INFO] <Bumtop> there was another skeleton guy
+2013-07-20 01:21:35 [INFO] <Bumtop> maybe it's too dark?
+2013-07-20 01:22:29 [INFO] <mvanholstyn> oops
+2013-07-20 01:22:32 [INFO] <Bumtop> haha
+2013-07-20 01:23:23 [INFO] <Bumtop> holy crap it's almost 1:30 already
+2013-07-20 01:25:45 [INFO] <mvanholstyn> yeah, that happens
+2013-07-20 01:25:59 [INFO] <mvanholstyn> lets go nether
+2013-07-20 01:26:04 [INFO] <mvanholstyn> !!!
+2013-07-20 01:26:05 [INFO] <Bumtop> :(
+2013-07-20 01:26:23 [INFO] <Bumtop> just a sec
+2013-07-20 01:26:44 [INFO] <Bumtop> okay
+2013-07-20 01:27:05 [INFO] <Bumtop> wait... do i need diamond armor or something?
