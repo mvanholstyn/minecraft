@@ -5695,3 +5695,124 @@
 2013-09-26 15:00:58 [INFO] Saving chunks for level 'tutorial'/Overworld
 2013-09-26 15:00:58 [INFO] Saving chunks for level 'tutorial'/Nether
 2013-09-26 15:00:58 [INFO] Saving chunks for level 'tutorial'/The End
+2013-09-26 15:11:54 [INFO] Starting minecraft server version 1.6.4
+2013-09-26 15:11:54 [INFO] Loading properties
+2013-09-26 15:11:56 [INFO] Default game type: SURVIVAL
+2013-09-26 15:11:56 [INFO] Generating keypair
+2013-09-26 15:11:57 [INFO] Starting Minecraft server on *:25565
+2013-09-26 15:11:57 [INFO] Preparing level "tutorial"
+2013-09-26 15:11:57 [INFO] Preparing start region for level 0
+2013-09-26 15:11:58 [INFO] Preparing spawn area: 22%
+2013-09-26 15:11:59 [INFO] Preparing spawn area: 95%
+2013-09-26 15:11:59 [INFO] Done (2.283s)! For help, type "help" or "?"
+2013-09-26 15:12:05 [SEVERE] Reached end of stream for /199.116.52.94
+2013-09-26 15:12:09 [INFO] mvanholstyn[/199.116.52.94:46357] logged in with entity id 367 at (-121.14034342436125, 62.0, 421.31345678667236)
+2013-09-26 15:12:09 [INFO] mvanholstyn joined the game
+2013-09-26 15:41:53 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-09-26 15:41:53 [INFO] mvanholstyn left the game
+2013-09-26 22:31:32 [SEVERE] Reached end of stream for /76.112.46.53
+2013-09-26 22:32:02 [INFO] mvanholstyn[/76.112.46.53:43564] logged in with entity id 5829 at (4.819728358371218, 53.0, 27.7436818812713)
+2013-09-26 22:32:02 [INFO] mvanholstyn joined the game
+2013-09-26 22:37:59 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-26 22:38:06 [INFO] Bumtop[/99.48.205.157:46355] logged in with entity id 6876 at (-90.16038698654857, 62.0, 416.9225630767948)
+2013-09-26 22:38:06 [INFO] Bumtop joined the game
+2013-09-26 22:38:37 [INFO] <Bumtop> i need to unload a few things
+2013-09-26 22:39:01 [INFO] <mvanholstyn> it *should* be safe to come through. i built a house around the portals here
+2013-09-26 22:40:34 [INFO] <Bumtop> coming
+2013-09-26 22:41:15 [INFO] <Bumtop> where are you?
+2013-09-26 22:41:36 [INFO] <mvanholstyn> here?
+2013-09-26 22:42:11 [INFO] <Bumtop> i came through a portal that's on the outside i think
+2013-09-26 22:42:20 [INFO] <mvanholstyn> do you see where i built?
+2013-09-26 22:42:24 [INFO] <mvanholstyn> its just a box ?
+2013-09-26 22:42:27 [INFO] <mvanholstyn> i think you are really close
+2013-09-26 22:42:29 [INFO] <mvanholstyn> i hear you
+2013-09-26 22:42:33 [INFO] <mvanholstyn> above me?
+2013-09-26 22:42:43 [INFO] <mvanholstyn> drop down
+2013-09-26 22:42:55 [INFO] <mvanholstyn> ha
+2013-09-26 22:42:58 [INFO] <Bumtop> wtf
+2013-09-26 22:43:04 [INFO] <mvanholstyn> got the flint thing?
+2013-09-26 22:43:24 [INFO] <Bumtop> just that one?
+2013-09-26 22:43:24 [INFO] <mvanholstyn> yay!
+2013-09-26 22:43:30 [INFO] <mvanholstyn> now we have a safe way to com ehere
+2013-09-26 22:43:53 [INFO] <Bumtop> what about the one above?
+2013-09-26 22:44:02 [INFO] <mvanholstyn> i dunno
+2013-09-26 22:44:09 [INFO] <mvanholstyn> break it?
+2013-09-26 22:45:15 [INFO] <mvanholstyn> got any pick axes?
+2013-09-26 22:45:19 [INFO] <Bumtop> just one
+2013-09-26 22:45:27 [INFO] <Bumtop> wasn't planning on staying here
+2013-09-26 22:45:37 [INFO] <mvanholstyn> haha
+2013-09-26 22:47:55 [INFO] <mvanholstyn> want to go back?
+2013-09-26 22:48:17 [INFO] <Bumtop> sure, just need some tools and food
+2013-09-26 22:49:15 [INFO] <mvanholstyn> sweet, it worked
+2013-09-26 23:00:05 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-26 23:00:05 [INFO] Bumtop left the game
+2013-09-26 23:11:48 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-09-26 23:11:48 [INFO] mvanholstyn left the game
+2013-09-28 00:11:24 [SEVERE] Reached end of stream for /108.77.71.18
+2013-09-28 00:11:32 [INFO] samuelmikel[/108.77.71.18:33610] logged in with entity id 41474 at (-76.35514105861108, 66.0, 402.6571320817611)
+2013-09-28 00:11:32 [INFO] samuelmikel joined the game
+2013-09-28 01:25:46 [SEVERE] Reached end of stream for /108.77.71.18
+2013-09-28 01:25:46 [INFO] samuelmikel lost connection: disconnect.endOfStream
+2013-09-28 01:25:46 [INFO] samuelmikel left the game
+2013-09-28 11:25:58 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-28 11:26:02 [INFO] Bumtop[/99.48.205.157:43614] logged in with entity id 362097 at (-100.65644011575525, 62.0, 417.8756914473034)
+2013-09-28 11:26:02 [INFO] Bumtop joined the game
+2013-09-28 11:49:49 [INFO] Bumtop lost connection: disconnect.genericReason
+2013-09-28 11:49:49 [INFO] Bumtop left the game
+2013-09-28 11:50:47 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-28 11:50:51 [INFO] Bumtop[/99.48.205.157:46047] logged in with entity id 418418 at (-72.79227267716149, 74.0, 401.80840126629334)
+2013-09-28 11:50:51 [INFO] Bumtop joined the game
+2013-09-28 12:12:09 [INFO] Bumtop was shot by Skeleton
+2013-09-28 12:25:12 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-28 12:25:12 [INFO] Bumtop left the game
+2013-09-28 15:49:21 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-28 15:49:25 [INFO] Bumtop[/99.48.205.157:46378] logged in with entity id 488120 at (-90.48809078541652, 62.0, 418.67840441084815)
+2013-09-28 15:49:25 [INFO] Bumtop joined the game
+2013-09-28 16:33:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 16:34:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 17:17:16 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-28 17:17:16 [INFO] Bumtop left the game
+2013-09-28 17:29:15 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-28 17:30:15 [INFO] Bumtop[/99.48.205.157:41589] logged in with entity id 691805 at (-82.3047475546623, 66.0, 412.2257761086574)
+2013-09-28 17:30:15 [INFO] Bumtop joined the game
+2013-09-28 17:45:34 [WARNING] Fetching addPacket for removed entity
+2013-09-28 18:51:05 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-28 18:51:05 [INFO] Bumtop left the game
+2013-09-28 20:19:50 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-28 20:20:03 [INFO] Bumtop[/99.48.205.157:38850] logged in with entity id 817254 at (-88.66755500745028, 66.0, 418.56155712633773)
+2013-09-28 20:20:03 [INFO] Bumtop joined the game
+2013-09-28 20:28:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-28 21:02:41 [INFO] Bumtop was doomed to fall
+2013-09-28 21:04:27 [INFO] Bumtop was slain by Zombie Pigman
+2013-09-28 21:08:55 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-28 21:08:55 [INFO] Bumtop left the game
+2013-09-29 11:00:04 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-29 11:00:07 [INFO] Bumtop[/99.48.205.157:48066] logged in with entity id 857272 at (-73.16678076331392, 62.0, 418.04527910150483)
+2013-09-29 11:00:07 [INFO] Bumtop joined the game
+2013-09-29 12:31:30 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-29 12:31:30 [INFO] Bumtop left the game
+2013-09-29 13:07:33 [SEVERE] Reached end of stream for /99.48.205.157
+2013-09-29 13:07:37 [INFO] Bumtop[/99.48.205.157:48554] logged in with entity id 1041619 at (-89.28731645502607, 62.0, 418.7957928209482)
+2013-09-29 13:07:37 [INFO] Bumtop joined the game
+2013-09-29 13:46:28 [INFO] Bumtop lost connection: disconnect.quitting
+2013-09-29 13:46:28 [INFO] Bumtop left the game
+2013-09-29 13:56:28 [SEVERE] Reached end of stream for /76.112.46.53
+2013-09-29 13:56:32 [INFO] mvanholstyn[/76.112.46.53:37270] logged in with entity id 1104612 at (-70.8830047528098, 62.0, 417.285790405611)
+2013-09-29 13:56:32 [INFO] mvanholstyn joined the game
+2013-09-29 13:57:33 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-09-29 13:57:33 [INFO] mvanholstyn left the game
+2013-09-29 13:57:41 [SEVERE] Reached end of stream for /76.112.46.53
+2013-09-29 13:57:42 [INFO] mvanholstyn[/76.112.46.53:33330] logged in with entity id 1106071 at (-89.90375529032556, 62.0, 416.8499071463057)
+2013-09-29 13:57:42 [INFO] mvanholstyn joined the game
+2013-09-29 13:58:31 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-09-29 13:58:31 [INFO] mvanholstyn left the game
+2013-09-29 13:59:04 [SEVERE] Reached end of stream for /76.112.46.53
+2013-09-29 13:59:08 [INFO] mvanholstyn[/76.112.46.53:46037] logged in with entity id 1106785 at (-124.49502860999101, 61.0, 429.2573126575076)
+2013-09-29 13:59:08 [INFO] mvanholstyn joined the game
+2013-09-29 13:59:39 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-09-29 13:59:39 [INFO] mvanholstyn left the game
+2013-09-29 14:00:17 [SEVERE] Reached end of stream for /76.112.46.53
+2013-09-29 14:00:20 [INFO] mvanholstyn[/76.112.46.53:40728] logged in with entity id 1107288 at (-124.49502860999101, 61.0, 429.2573126575076)
+2013-09-29 14:00:20 [INFO] mvanholstyn joined the game
+2013-09-29 14:01:16 [INFO] mvanholstyn lost connection: disconnect.quitting
+2013-09-29 14:01:16 [INFO] mvanholstyn left the game
